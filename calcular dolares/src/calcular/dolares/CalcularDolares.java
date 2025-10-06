@@ -31,7 +31,7 @@ public class CalcularDolares {
     
     // saida
     
-     System.out.print("Informe quantos dolares ha no cofre" + valorReais);
+     System.out.print("Tem no cofre" + valorReais);
     }
     
 }
